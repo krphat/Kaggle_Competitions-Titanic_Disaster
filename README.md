@@ -1,1 +1,1 @@
-[Kaggle-Taxi Trip Fare Dataset](https://www.kaggle.com/competitions/titanic)
+[Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)
