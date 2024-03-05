@@ -1,1 +1,1 @@
-[Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)
+[Kaggle: Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)
